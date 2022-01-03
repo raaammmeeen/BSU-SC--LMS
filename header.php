@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html class="no-js">
-    <head>
+<head>
         <title>CHMSC LMS</title>
 		<meta name="description" content="Learning Management System">
 		<meta name="keywords" content="CHMSC LMS,CHMSCLMS,CHMSC,LMS,CHMSCLMS.COMXA">
